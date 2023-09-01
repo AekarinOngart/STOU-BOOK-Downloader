@@ -1,1 +1,1 @@
-# STOU-BOOK-Downloader
+# STOU-eBOOK-Downloader
